@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22982ab057fc8db449e2e66c8b56fd5a, type: 3}
+  m_Name: Piece List
+  m_EditorClassIdentifier: 
+  pawn:
+    prefab: {fileID: 8580094939238402228, guid: faaca78773f54994d88a7a25bd3457cc, type: 3}
+  rook:
+    prefab: {fileID: 7962792139155553825, guid: 9d4ea28e43566594d813b47ce0e319f3, type: 3}
+  knight:
+    prefab: {fileID: 7640200294623036980, guid: 9e5675d7b5e5bc345a44585d548e3437, type: 3}
+  bishop:
+    prefab: {fileID: 1910977191748172627, guid: 8441c899c4f651a4eb8c7a5b7c26ccdc, type: 3}
+  queen:
+    prefab: {fileID: 3912802067399253313, guid: 82977e8a2bc1bd54889108fe4357809f, type: 3}
+  king:
+    prefab: {fileID: 1791251473098151865, guid: ccd5ba5d7186e9744bc40fc476282414, type: 3}
